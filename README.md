@@ -3,10 +3,10 @@
 I'm interested in Data Science and Machine Learning 🚀. I'm currently working on various projects related to these fields.
 
 ## About Me
-- 🌱 I’m currently learning more about Git and GitHub, as seen in my repository [-dio-resumos-git-e-github](https://github.com/rocasouza/-dio-resumos-git-e-github).
+- 🌱 I’m currently learning more about Delphi FMX, apps Android and Windows, as seen in my repository [99 Pedidos](https://github.com/rocasouza/99pedidos).
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about delphi, firebird, mysql, LOTR 🧙‍♂️
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lemuel-de-souza-8271a030a/)
+- 💬 Ask me about delphi, lazarus, firebird, mysql, machine learning, html, css, LOTR 🧙‍♂️
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lemuel-de-souza/)
 
 ## Languages
 ![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
