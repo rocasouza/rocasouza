@@ -1,11 +1,11 @@
 # Hello👋, I'm Lemuel Souza
 
-I'm interested in Data Science and Machine Learning 🚀. I'm currently working on various projects related to these fields.
+I'm interested in Data Science and Machine Learning 🚀. 
 
 ## About Me
 - 🌱 I’m currently learning more about Delphi FMX, apps Android and Windows, as seen in my repository [99 Pedidos](https://github.com/rocasouza/99pedidos).
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about delphi, lazarus, firebird, mysql, machine learning, html, css, LOTR 🧙‍♂️
+- 🫡 I’m looking to collaborate on open source projects.
+- 💬 Ask me about delphi, pascal, firebird, mysql, machine learning, html, css, LOTR 🧙‍♂️
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lemuel-de-souza/)
 
 ## Languages
